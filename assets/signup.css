@@ -1,0 +1,18 @@
+.form-signup {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.wrapper {
+    border-top: 3px solid green;
+    background-color: #ffffffcc;
+}
+
+.wrapper a {
+    text-decoration: none;
+    color: green;
+}
+
+p.msg_alert {
+    color: green;
+}
